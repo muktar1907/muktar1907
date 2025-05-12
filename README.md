@@ -1,5 +1,8 @@
 ## Hi there 👋
+As a senior Computer Science major at the University of Texas at Arlington, I have a strong interest in software development and developing software solutions to real world problems, and plan to graduate in the Spring of 2026. My time at UTA has allowed me to develop skills in various programming languages and technologies such as Java, C, Python, Github, SpringBoot, and more through coursework and personal projects. Some of those projects can be found here on my GitHub page.
 
+Email: muktar1907@gmail.com
+LinkedIn: https://www.linkedin.com/in/muktar-oyegbefun/
 <!--
 **muktar1907/muktar1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
